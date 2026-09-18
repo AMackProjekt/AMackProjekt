@@ -1,70 +1,84 @@
 <p align="center">
-  <a href="https://mackprojekt.com/"><img src="assets/amp-logo.jpg" alt="A MackProjekt" width="180" /></a>
+  <img src="assets/popsenterprises.webp" alt="MackEnterprises — PopsEnterprises artwork" width="620" />
 </p>
 
-<h1 align="center">Technology. Culture. Purpose.</h1>
+<p align="center"><strong>DONYALE “DTHREE” MACK &nbsp; / &nbsp; A MACKPROJEKT</strong></p>
 
-<p align="center"><strong>Independent ideas. Shared ambition.</strong><br />
-Building useful technology, expressive brands, and pathways forward.</p>
+<h1 align="center">Ideas with a voice.<br />Technology with a purpose.</h1>
+
+<p align="center">Builder. Author. Founder.<br />
+Connecting useful technology, creative expression, and community.</p>
 
 <p align="center">
-  <a href="https://mackprojekt.com/">Explore the studio</a> &nbsp; · &nbsp;
-  <a href="https://mackprojekt.com/innovation/">View the portfolio</a> &nbsp; · &nbsp;
-  <a href="https://mackprojekt.com/partnerships/">Connect &amp; collaborate</a>
+  <a href="https://mackprojekt.com/"><strong>ENTER THE STUDIO ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://mackprojekt.com/innovation/"><strong>EXPLORE THE WORK ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://mackprojekt.com/partnerships/"><strong>LET’S CONNECT ↗</strong></a>
 </p>
 
 ---
 
-### The person behind the Projekts
+## Different expressions. One purpose.
 
-I'm **Donyale “DThree” Mack**, founder of **A MackProjekt**. My work brings together technology, creative identity, and community. I build around the people a project serves—whether that means connecting a team, supporting a new beginning, or giving an idea its own voice.
+I'm **Donyale “DThree” Mack**, the person behind **A MackProjekt**. I build around people—the work they need to do, the stories they carry, and the possibilities they see.
 
-### Selected work
+Some ideas become platforms. Some become books, brands, or a pathway to a new beginning. This is a look at that work.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://mackprojekt.com/"><img src="assets/amp-homepage.webp" alt="A MackProjekt public website preview" width="420" /></a>
-<h3>A MackProjekt</h3>
-<p><strong>The independent innovation studio.</strong></p>
-<p>A connected portfolio of technology, creative brands, books, and community ventures.</p>
-<p><a href="https://mackprojekt.com/">Explore AMP →</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.sdtoolsinc.org/"><img src="assets/tools-homepage.webp" alt="T.O.O.L.S. Inc. public website preview" width="420" /></a>
-<h3>T.O.O.L.S. Inc.</h3>
-<p><strong>Pathways to a new beginning.</strong></p>
-<p>Reentry support, workforce development, education, and mentorship to help people move forward.</p>
-<p><a href="https://www.sdtoolsinc.org/">Discover the mission →</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p align="center"><a href="https://mackprojekt.com/portals/"><img src="assets/enterprise-brand.webp" alt="Projekt Enterprise brand artwork" width="230" /></a></p>
-<h3>Projekt Enterprise</h3>
-<p><strong>People. Programs. Connected.</strong></p>
-<p>A connected platform for case management, team coordination, and organizational oversight.</p>
-<p><a href="https://mackprojekt.com/portals/">View the public overview →</a></p>
-</td>
-<td width="50%" valign="top">
-<img src="assets/iwmlp-storefront.webp" alt="I Want My Lawyer Present storefront preview" width="420" />
-<h3>I Want My Lawyer Present</h3>
-<p><strong>Wear the message. Own the statement.</strong></p>
-<p>Apparel, merchandise, and brand storytelling built around bold expression and unmistakable identity.</p>
-<p><a href="https://mackprojekt.com/iwmlp/">Explore the brand →</a></p>
-</td>
-</tr>
-</table>
+## 01 / The studio
+### A MackProjekt · Built to move what’s next.
 
-<sub>AMP and T.O.O.L.S. show public homepage previews. Projekt Enterprise uses brand artwork; IWMLP shows a previously captured storefront preview.</sub>
+[![A MackProjekt public homepage](assets/amp-homepage.webp)](https://mackprojekt.com/)
 
-### Beyond the platforms
+Technology, creative identity, and community ventures—connected through one independent studio.
 
-**Identity. Dignity. Ownership.** Discover [KingMe](https://kingme.mackprojekt.com/) and [QueenMe](https://queenme.mackprojekt.com/), or explore [books and ideas](https://mackprojekt.com/books/) from the studio.
+**[Step inside AMP →](https://mackprojekt.com/)**
 
 ---
 
-<p align="center"><strong>Have a purpose worth building around?</strong><br />
-<a href="https://mackprojekt.com/partnerships/">Let's connect.</a></p>
+## 02 / The mission
+### T.O.O.L.S. Inc. · A new beginning deserves a pathway.
 
-<p align="center"><sub>Created by Donyale “DThree” Mack · A MackProjekt</sub></p>
+[![T.O.O.L.S. Inc. public homepage](assets/tools-homepage.webp)](https://www.sdtoolsinc.org/)
+
+**Together Overcoming Obstacles and Limitations.** Reentry support, workforce development, education, and mentorship that help people take their next step.
+
+**[Discover the mission →](https://www.sdtoolsinc.org/)**
+
+---
+
+## 03 / The platform
+### Projekt Enterprise · Bring the work together.
+
+> **People. Programs. Progress.**
+>
+> A connected place for case management, team coordination, and organizational oversight—built around the people delivering services and the participants moving toward their goals.
+
+**[Explore the public overview →](https://mackprojekt.com/portals/)**
+
+---
+
+## 04 / The expression
+### I Want My Lawyer Present · Wear the message.
+
+[![I Want My Lawyer Present storefront preview](assets/iwmlp-storefront.webp)](https://mackprojekt.com/iwmlp/)
+
+Bold lettering. Apparel. A point of view. The digital storefront brings together merchandise, launch media, and the IWMLP brand story.
+
+<sub>IWMLP brand and creative direction: Brian Mason. Image: previously captured storefront preview.</sub>
+
+**[Explore IWMLP →](https://mackprojekt.com/iwmlp/)**
+
+---
+
+## Identity. Dignity. Ownership.
+
+**[KingMe ↗](https://kingme.mackprojekt.com/)** &nbsp; · &nbsp; **[QueenMe ↗](https://queenme.mackprojekt.com/)** &nbsp; · &nbsp; **[Books & ideas ↗](https://mackprojekt.com/books/)**
+
+Different ways to express a belief in growth, purpose, and what comes next.
+
+---
+
+<h2 align="center">Your next idea deserves a beginning.</h2>
+
+<p align="center"><a href="https://mackprojekt.com/partnerships/"><strong>BRING YOUR VISION ↗</strong></a></p>
+
+<p align="center"><sub>Donyale “DThree” Mack · A MackProjekt<br />Technology. Culture. Purpose.</sub></p>
